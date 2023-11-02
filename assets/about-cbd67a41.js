@@ -1,0 +1,1 @@
+import{_ as t,u as e,o,c as s,a}from"./app-8243cfed.js";const n={setup(){e({title:"ABOUT 頁面",meta:[{name:"description",content:"這是 about 頁面"}]})}},_={class:"about"},c=a("h1",null,"這是 about 頁面",-1),u=[c];function r(d,i,p,l,f,m){return o(),s("div",_,u)}const h=t(n,[["render",r]]);export{h as default};

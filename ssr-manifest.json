@@ -1,0 +1,88 @@
+{
+  "\u0000plugin-vue:export-helper": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "\u0000vite/modulepreload-polyfill": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "\u0000vite/preload-helper": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "../../../../@vite-plugin-pages/generated-pages?id=~pages": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "index.html": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/@unhead/dom/dist/index.mjs": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/@unhead/shared/dist/index.mjs": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/@unhead/vue/dist/shared/vue.cf295fb1.mjs": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/@unhead/vue/dist/shared/vue.f36acd1f.mjs": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/hookable/dist/index.mjs": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/unhead/dist/index.mjs": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/vite-ssg/dist/index.mjs": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "node_modules/vue-router/dist/vue-router.mjs": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "src/App.vue": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "src/App.vue?vue&type=style&index=0&scoped=36188e2d&lang.css": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "src/assets/logo.svg": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "src/assets/main.css": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "src/main.js": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "src/pages/about.vue": [
+    "/vite-ssg/assets/about-cbd67a41.js",
+    "/vite-ssg/assets/about-4d995ba2.css"
+  ],
+  "src/pages/about.vue?vue&type=style&index=0&lang.css": [
+    "/vite-ssg/assets/about-cbd67a41.js",
+    "/vite-ssg/assets/about-4d995ba2.css"
+  ],
+  "src/pages/index.vue": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ],
+  "src/pages/index.vue?vue&type=style&index=0&lang.css": [
+    "/vite-ssg/assets/logo-277e0e97.svg"
+  ]
+}
